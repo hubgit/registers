@@ -1,4 +1,4 @@
-Fetch the contents of [registers](http://www.openregister.org/).
+Fetch the contents of [registers](http://www.openregister.org/), save them as NDJSON.
 
 ## Usage
 
