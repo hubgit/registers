@@ -1,0 +1,12 @@
+{
+    "name": "hubgit/registers",
+    "require": {
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Alf Eaton",
+            "email": "eaton.alf@gmail.com"
+        }
+    ]
+}
